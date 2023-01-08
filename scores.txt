@@ -1,0 +1,15 @@
+Banaani Koored;7;2023-01-01 13:09:02
+Heli Kopter;10;2023-01-01 13:09:29
+Mustad-Kartuli Koored;7;2023-01-01 13:18:57
+Lennu Jaam;7;2023-01-01 13:22:47
+Paras Pähkel;6;2023-01-01 13:51:42
+Käsna-Kalle Kantpüks;9;2023-01-01 13:55:20
+Soolane Heeringas;5;2023-01-01 14:17:59
+Värava Vaht;6;2022-12-31 15:49:49
+Lennuki Juht;6;2023-01-01 14:45:33
+Lume Saan;15;2023-01-01 14:46:33
+Peeter Paan;9;2023-01-01 14:47:51
+Mootor Paat;5;2023-01-01 15:30:40
+Porgandi Pirukas;6;2022-12-31 15:47:49
+Punane-Välgu Mihkel;6;2023-01-01 15:55:35
+Milline Küsimus;2;2023-01-02 20:04:42
